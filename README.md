@@ -1,4 +1,4 @@
-mactel-boot-logo
-================
+Mac EFI Bootloader Logo
+=======================
 
-A logo for the Mac EFI bootloader
+Generate a logo for the Mac EFI bootloader.
