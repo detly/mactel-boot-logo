@@ -1,4 +1,4 @@
-mactel-boot-logo (1.0-1~trusty) trusty; urgency=low
+mactel-boot-logo (1.0-1~utopic) utopic; urgency=low
 
   * Initial packaging
 
