@@ -10,4 +10,4 @@ Package: mactel-boot-logo
 Architecture: any
 Depends: ${misc:Depends}
 Description: An Ubuntu logo for the Mac EFI bootloader
- An Ubuntu logo, in 'icns' format, suitable for the Mac EFI bootloader.
+ Ubuntu logo, in 'icns' format, suitable for the Mac EFI bootloader.
