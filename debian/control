@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 Homepage: https://github.com/detly/mactel-boot-logo
 
 Package: mactel-boot-logo
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: Ubuntu logo for the Mac EFI bootloader
  Ubuntu logo, in 'icns' format, suitable for the Mac EFI bootloader.
