@@ -1,4 +1,9 @@
-#!/usr/bin/make
+#!/usr/bin/make -f
+
+# Copyright 2014 Jason Heeris, jason.heeris@gmail.com
+# 
+# This file is part of mactel-boot-logo, and is licensed under the GPL v3:
+# https://github.com/detly/mactel-boot-logo/blob/master/COPYING
 
 # Invoke as "make LOGO_TYPE=ubuntu" to make an Ubuntu logo
 
