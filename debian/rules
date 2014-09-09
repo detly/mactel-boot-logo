@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
+
+export LOGO_TYPE=ubuntu
+
 %:
 	dh $@
-
-override_dh_make:
-	LOGO_TYPE=ubuntu dh_make
