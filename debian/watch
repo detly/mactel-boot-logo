@@ -1,0 +1,2 @@
+version=3
+https://github.com/detly/mactel-boot-logo/releases .*/v?(.+)\.tar\.gz

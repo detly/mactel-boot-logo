@@ -1,0 +1,5 @@
+mactel-boot-logo (1.0-1~trusty) trusty; urgency=low
+
+  * Initial packaging
+
+ -- Jason Heeris <jason.heeris@gmail.com>  Tue, 09 Sep 2014 12:44:40 +0800
